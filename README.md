@@ -55,5 +55,3 @@ Categorical variables such as Region and Service were encoded and the dataset wa
 - Implement ARIMA/LSTM forecasting models
 - Real-time Azure integration  
 - Dashboard using Power BI or Streamlit
-- Real-time Azure integration
-- Dashboard using Power BI or Streamlit
