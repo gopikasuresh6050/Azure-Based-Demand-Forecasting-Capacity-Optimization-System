@@ -96,3 +96,6 @@ A monitoring script was implemented to track model performance metrics such as M
 - Milestone 2: Data processing and feature engineering ✔
 - Milestone 3: Machine learning model development and evaluation ✔
 - Milestone 4: Forecast integration, deployment, and monitoring ✔
+
+### 📄 Project Documentation
+You can view the full project demonstration and report here: [Download/View Project Demo PDF](./dashboard demo.pdf)
