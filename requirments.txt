@@ -1,0 +1,17 @@
+# Data Processing & ML
+pandas
+numpy
+scikit-learn
+joblib
+openpyxl
+matplotlib
+
+# API & Deployment
+fastapi
+uvicorn
+pyngrok
+nest-asyncio
+
+# Frontend Dashboard
+streamlit
+plotly
