@@ -98,4 +98,4 @@ A monitoring script was implemented to track model performance metrics such as M
 - Milestone 4: Forecast integration, deployment, and monitoring ✔
 
 ### 📄 Project Documentation
-You can view the full project demonstration and report here: [Download/View Project Demo PDF](./dashboard demo.pdf)
+You can view the full project demonstration and report here: [Download/View Project Demo PDF](./dashboard_demo.pdf)
